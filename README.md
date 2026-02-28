@@ -20,18 +20,18 @@ This raised three core questions:
 
 ### Data Overview
 
--Millions of transactional records
--Multi-market dataset
--Customer-level and product-level granularity
--Integrated SQL databases with supplementary Excel inputs
--Relational data model (fact and dimension structure)
+- Millions of transactional records
+- Multi-market dataset
+- Customer-level and product-level granularity
+- Integrated SQL databases with supplementary Excel inputs
+- Relational data model (fact and dimension structure)
 **Core data domains analyzed:**
--Key Metrics : Net Sales, Gross Margin, Gross Margin %, Forecast Accuracy %, Net Error, & Absolute Error
--P&L Statement
--Revenue Trend
--Product, Customer & Market Perfomance 
--Unit Economics
--Customer and market hierarchies
+- Key Metrics : Net Sales, Gross Margin, Gross Margin %, Forecast Accuracy %, Net Error, & Absolute Error
+- P&L Statement
+- Revenue Trend
+- Product, Customer & Market Perfomance 
+- Unit Economics
+- Customer and market hierarchies
 
 ### Methodology
 
@@ -39,11 +39,11 @@ The analytical model was structured using a relational star-schema approach link
 
 Key analytical techniques included:
 
--GM% vs Target variance analysis
--Revenue concentration and margin sensitivity evaluation
--Discount impact assessment (pre- and post-invoice)
--Forecast accuracy and absolute error measurement
--Stockout vs excess inventory imbalance identification
+- GM% vs Target variance analysis
+- Revenue concentration and margin sensitivity evaluation
+- Discount impact assessment (pre- and post-invoice)
+- Forecast accuracy and absolute error measurement
+- Stockout vs excess inventory imbalance identification
 
 ### Key Insights
 
