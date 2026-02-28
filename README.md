@@ -76,7 +76,11 @@ Multi-dimensional performance analysis (Finance x Market × Customer × Product 
 ## Dashboard Link:
 https://app.powerbi.com/view?r=eyJrIjoiYWY2YmNhNDgtNGY3OC00YzVhLThkMjMtZDYyNTVmZGI5Y2VkIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
 
-Video Preview
+Video Preview:
+
+
+https://github.com/user-attachments/assets/69e3d958-213f-4f73-8da6-ef35608011e5
+
 
 Home Page:
 <img width="1761" height="993" alt="Screenshot 2026-02-28 173241" src="https://github.com/user-attachments/assets/26ff24e8-5763-420b-a07f-e55aa4ae70c7" />
