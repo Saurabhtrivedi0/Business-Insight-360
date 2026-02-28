@@ -3,7 +3,11 @@
 ## Dashboard Link:
 https://app.powerbi.com/view?r=eyJrIjoiYWY2YmNhNDgtNGY3OC00YzVhLThkMjMtZDYyNTVmZGI5Y2VkIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
 
-Video Preview
+Video Preview:
+
+
+https://github.com/user-attachments/assets/7af33f8e-2d0f-4e60-b16c-bde9d66a8549
+
 
 Home Page:
 <img width="1761" height="993" alt="Screenshot 2026-02-28 173241" src="https://github.com/user-attachments/assets/352584ce-ae19-43c8-b308-c028af22c8e8" />
