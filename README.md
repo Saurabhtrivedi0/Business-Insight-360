@@ -25,6 +25,7 @@ This raised three core questions:
 - Customer-level and product-level granularity
 - Integrated SQL databases with supplementary Excel inputs
 - Relational data model (fact and dimension structure)
+
 **Core data domains analyzed:**
 - Key Metrics : Net Sales, Gross Margin, Gross Margin %, Forecast Accuracy %, Net Error, & Absolute Error
 - P&L Statement
